@@ -126,11 +126,7 @@ function App() {
       </div>
 
 
-      <div className='footer'>
-        <div>Website created by Abdurrahman Asad</div>
-        <div><a href='https://github.com/A-ASAD'><i className="fa fa-github fa-2x"></i></a></div>
-        <div><a href='https://pk.linkedin.com/in/abdurrahman-asad-2805741ab'><i className="fa fa-linkedin fa-2x"></i></a></div>
-      </div>
+      
     </div>
   );
 }
